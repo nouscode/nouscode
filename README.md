@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m a Junior Python Developer.<br>🐍 Working with Python, Telegram bots, and web scrapers.<br>💡 Passionate about backend development and automation.<br>🚀 Always learning and open to collaboration!
+👋 Hi! I’m a Beginner Python Developer.<br>🐍 Working with Python, Telegram bots, and web scrapers.<br>💡 Passionate about backend development and automation.<br>🚀 Always learning and open to collaboration!
 
 
 # 💻 Tech Stack:
